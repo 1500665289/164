@@ -1,0 +1,12 @@
+{"Name":"更高灵气寿命显示",
+"DisplayName":"更高灵气寿命温度显示",
+"GameVersion":0.95301,
+"Version":1.0,
+"Desc":"[作者]\r\n    tefeink\r\n[简介]\r\n开局进入游戏后将自动提高灵气最大值显示至10亿，寿命显示为10万，(最高/最低)舒适温度，极限温度显示为10万。",
+"Author":"TEFEINK",
+"UIPackage":null,
+"ID":"1821881664",
+"Flag":-520929859,
+"Tags":["Usability"],
+"IncreasedDesc":"",
+"IsInsideCreat":false}
